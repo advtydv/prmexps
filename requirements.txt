@@ -1,0 +1,7 @@
+ollama>=0.4.0
+mlx-lm>=0.21.0
+jupyter>=1.0.0
+matplotlib>=3.8.0
+ipywidgets>=8.1.0
+numpy>=1.26.0
+pytest>=8.0.0
